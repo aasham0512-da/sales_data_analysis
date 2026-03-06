@@ -10,3 +10,6 @@ Insights:
 - Monthly sales trends
 - Top performing products
 - Regional sales comparison
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
